@@ -1,2 +1,2 @@
-#Ignore HTML Files 
+#Ignore HTML wildcard 
 *.html
